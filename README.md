@@ -5,6 +5,8 @@ ATM Machine
 # Description
 
 This is a React project to simulate an ATM terminal.
+From the original code, I added validation, a selector for the action,
+as well as an error message that displays if the data is invalid.
 
 # Installation
 
