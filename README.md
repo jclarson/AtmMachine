@@ -1,3 +1,4 @@
+<img src="images/atm.png" width='100'>
 # Name
 
 ATM Machine
